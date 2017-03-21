@@ -1,6 +1,6 @@
 {
-	"name": "qst/test",
-	"description": "php test",
+	"name": "qst/testqst",
+	"description": "php testqst",
 	"license": "MIT",
 	"keywords": ["message queue"],
 	"version": "1.0.0",
@@ -16,7 +16,7 @@
 
 	"autoload": {
 		"psr-0": {
-			"Qst\\TEST": "src/"
+			"Qst\\TESTQST": "src/"
 		}
 	}
 }
